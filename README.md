@@ -8,6 +8,8 @@ pcc/source
 2. a windows executable:
 A Windows executable -- pencilJet.exe, can be found in pencilJet.zip.
 The executable was wrapped up by pyinstaller, and tested on Windows 7.
+Because pyinstaller is not a standard package, the generated executable
+might show game graphics at different resolutions on different computers.
 
 3. how to play:
 The only input controls are mouse movement and left mouse button click.
