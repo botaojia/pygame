@@ -156,7 +156,7 @@ def check_bullet_enemy_collisions(ai_settings, screen, ess, ebs, player_bullets,
       obj_destroyed.add(e)
       stats.score += ai_settings.enemy_s_score
       stats.high_score = max(stats.high_score, stats.score)
-      gs.play_enemy_s_down_sound()
+      gs.play_enemy_down_sound()
 
     collisions_eb = pygame.sprite.groupcollide(ebs, player_bullets, False, True, \
       pygame.sprite.collide_circle_ratio(1.0))
@@ -166,6 +166,7 @@ def check_bullet_enemy_collisions(ai_settings, screen, ess, ebs, player_bullets,
         gs.play_enemy_b_hit_sound()
         if eb.shot_count == ai_settings.eb_shot_need_to_destroy:
             ebd = Enemy_b_destroyed(eb.rect.centerx, eb.rect.centery)
+            gs.play_enemy_down_sound()
             obj_destroyed.add(ebd)
             ebs.remove(eb)
             stats.score += ai_settings.enemy_b_score
