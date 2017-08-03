@@ -1,7 +1,7 @@
 # Screen Snapshot
 ![image](https://github.com/botaojia/pygame/blob/pencilJet/pcc/source/images/cover.png)
 
-#A simple space shooting game implemented in Python+Pygame
+# A simple space shooting game implemented in Python+Pygame
 
 1. source code:
 
