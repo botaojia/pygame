@@ -1,5 +1,7 @@
 # pygame
-![image](https://github.com/botaojia/pygame/blob/pencilJet/pcc/source/images/enemy_b.png)
+
+# Screen Snapshot
+![image](https://github.com/botaojia/pygame/blob/pencilJet/pcc/source/images/cover.png)
 
 A game implemented in Python Pygame
 
@@ -20,4 +22,6 @@ might show game graphics at different resolutions on different computers.
 The only input controls are mouse movement and left mouse button click.
 ESC or closing game window to exit.
 Highest score will always be displayed on top of the screen untill exiting the game.
+Highest score the author can achieve is 6950.
+
 
