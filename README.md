@@ -1,4 +1,5 @@
 # pygame
+[[/pygame/pcc/source/images/enemy_b.png]]
 A game implemented in Python Pygame
 
 1. source code:
