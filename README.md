@@ -3,15 +3,15 @@
 
 # A space shooting game by Python+Pygame
 
-1. source code:
+1. source code
 
 All python source code, images, sound resources are in the following folder pcc/source.
 
-2. a windows executable:
+2. a windows executable
 
 A Windows executable -- unzip pcc/pencilJet.zip, and run pencilJet.exe. The executable was wrapped up by pyinstaller, and tested on Windows 7. Because pyinstaller is not a standard package, the executable might show game graphics at different resolutions on different computers.
 
-3. how to play:
+3. how to play
 
 The only input controls are mouse movement and left mouse button click.
 ESC or closing game window to exit.
