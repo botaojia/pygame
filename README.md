@@ -1,5 +1,6 @@
 # pygame
-[[/pygame/pcc/source/images/enemy_b.png]]
+![image](https://github.com/botaojia/pygame/blob/pencilJet/pcc/source/images/enemy_b.png)
+
 A game implemented in Python Pygame
 
 1. source code:
