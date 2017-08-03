@@ -1,14 +1,12 @@
-# pygame
-
 # Screen Snapshot
 ![image](https://github.com/botaojia/pygame/blob/pencilJet/pcc/source/images/cover.png)
 
-A game implemented in Python Pygame
+#A simple space shooting game implemented in Python+Pygame
 
 1. source code:
 
 All python source code, images, sound resources are in the following folder
-pcc/source
+pcc/source.
 
 2. a windows executable:
 
