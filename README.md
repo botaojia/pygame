@@ -6,6 +6,7 @@
 1. source code
 
 All python source code, images, sound resources are in the following folder pcc/source.
+To run scripts, python and pygame need to be installed. Then execute pcc/source/pencilJet.py.
 
 2. a windows executable
 
