@@ -3,6 +3,8 @@
 
 # A space shooting game by Python+Pygame
 
+I implemented the game from scratch. All game graphics and sound effects are either created by myself, or modified using resources from https://opengameart.org/ etc.
+
 1. source code
 
 All python source code, images, sound resources are in the following folder pcc/source.
