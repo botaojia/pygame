@@ -3,7 +3,7 @@
 
 # A space shooting game by Python+Pygame
 
-I implemented the game from scratch. All game graphics and sound effects are either created by myself, or modified using resources from https://opengameart.org/ etc.
+Although this is a very naive game, I implemented it from scratch. All game graphics and sound effects are either created by myself, or modified using resources from https://opengameart.org/ etc.
 
 1. source code
 
