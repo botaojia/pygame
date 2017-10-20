@@ -12,7 +12,7 @@ To run scripts, python and pygame need to be installed. Then execute [pencilJet.
 
 2. a windows executable
 
-A Windows executable --- unzipping [pencilJet.zip](https://github.com/botaojia/pygame/blob/pencilJet/pcc/source/pencilJet.zip), and run pencilJet.exe. The executable was wrapped up by pyinstaller, and tested on Windows 7. Because pyinstaller is not a standard package, the executable might show game graphics at different resolutions on different computers.
+A Windows executable --- unzipping [pencilJet.zip](https://github.com/botaojia/pygame/blob/pencilJet/pcc/pencilJet.zip), and run pencilJet.exe. The executable was wrapped up by pyinstaller, and tested on Windows 7. Because pyinstaller is not a standard package, the executable might show game graphics at different resolutions on different computers.
 
 3. how to play
 
