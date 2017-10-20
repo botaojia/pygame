@@ -8,11 +8,11 @@ Although this is a very naive game, I implemented it from scratch. All game grap
 1. source code
 
 All python source code, images, sound resources are in the following folder pcc/source.
-To run scripts, python and pygame need to be installed. Then execute pcc/source/pencilJet.py.
+To run scripts, python and pygame need to be installed. Then execute [pencilJet.py](https://github.com/botaojia/pygame/blob/pencilJet/pcc/source/pencilJet.py).
 
 2. a windows executable
 
-A Windows executable -- unzip pcc/pencilJet.zip, and run pencilJet.exe. The executable was wrapped up by pyinstaller, and tested on Windows 7. Because pyinstaller is not a standard package, the executable might show game graphics at different resolutions on different computers.
+A Windows executable --- unzipping [pencilJet.zip](https://github.com/botaojia/pygame/blob/pencilJet/pcc/source/pencilJet.zip), and run pencilJet.exe. The executable was wrapped up by pyinstaller, and tested on Windows 7. Because pyinstaller is not a standard package, the executable might show game graphics at different resolutions on different computers.
 
 3. how to play
 
