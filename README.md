@@ -7,7 +7,7 @@ Although this is a very naive game, I implemented it from scratch. All game grap
 
 1. source code
 
-All python source code, images, sound resources are in the following folder pcc/source.
+All python source code, images, sound resources are in the following folder [pcc/source](https://github.com/botaojia/pygame/tree/pencilJet/pcc/source).
 To run scripts, python and pygame need to be installed. Then execute [pencilJet.py](https://github.com/botaojia/pygame/blob/pencilJet/pcc/source/pencilJet.py).
 
 2. a windows executable
