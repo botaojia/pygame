@@ -19,4 +19,4 @@ To run scripts, python and pygame need to be installed. Then execute [pencilJet.
 The only input controls are mouse movement and left mouse button click.
 ESC or closing game window to exit.
 Highest score will always be displayed on top of the screen until exiting the game.
-Highest score the author can achieve is 6950.
+Highest score the I got was 6950.
