@@ -11,7 +11,7 @@ A Windows executable [download](https://github.com/botaojia/pygame/raw/pencilJet
 
 2. source code
 
-All python source code, images, sound resources are in the following folder [pcc/source](https://github.com/botaojia/pygame/tree/pencilJet/pcc/source).
+All python source code, images, sound resources are in [pcc/source](https://github.com/botaojia/pygame/tree/pencilJet/pcc/source).
 To run scripts, python and pygame need to be installed. Then execute [pencilJet.py](https://github.com/botaojia/pygame/blob/pencilJet/pcc/source/pencilJet.py).
 
 3. how to play
