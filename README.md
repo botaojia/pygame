@@ -7,7 +7,7 @@ Although this is a very naive game, I implemented it from scratch. All game grap
 
 1. a windows executable (tested on Windows 7/10)
 
-A Windows executable [download](https://github.com/botaojia/pygame/raw/pencilJet/pcc/pencilJet.zip) --- by unzipping [pencilJet.zip](https://github.com/botaojia/pygame/blob/pencilJet/pcc/pencilJet.zip), and double clicking pencilJet.exe. The executable was wrapped up by pyinstaller which is not a standard package, thus game graphics may show different resolutions on different computers.
+A Windows executable [download](https://github.com/botaojia/pygame/raw/pencilJet/pcc/pencilJet.zip) --- start to play by unzipping [pencilJet.zip](https://github.com/botaojia/pygame/blob/pencilJet/pcc/pencilJet.zip), and double clicking pencilJet.exe. The executable was wrapped up by pyinstaller which is not a standard package, thus game graphics may show different resolutions on different computers.
 
 2. source code
 
