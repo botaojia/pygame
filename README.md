@@ -3,7 +3,7 @@
 
 # A space shooting game
 
-Although this is a very naive game, I implemented it from scratch. All game graphics and sound effects are either created by myself, or modified using resources from https://opengameart.org/ etc.
+Although this is a very naive game, I implemented it from scratch. All game graphics and sound effects are created/recorded by myself (a few of the them are modified using resources at https://opengameart.org/ etc.)
 
 1. a windows executable (tested on Windows 7/10)
 
